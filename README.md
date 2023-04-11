@@ -1,7 +1,8 @@
-# Hi there 👋 I'm  Alejandro Rivera
-# FullStack Developer 👨‍💻
-## A little more about me... 💬 
-### _Computer Engineer_ [Universidad Tecnica Particular de Loja](https://www.utpl.edu.ec/)
+<h1 align="center">Hi 👋, I'm Alejandro</h1>
+<h3 align="center"> A FullStack Developer 👨‍💻 </h3>
+
+<h2>A little more about me... 💬 </h2>
+<h2>Computer Engineer <a href = "https://www.utpl.edu.ec" > Universidad Tecnica Particular de Loja </a></h2> 
 
 - 👨‍💻 I’m currently learning **React Native,Typescript, Flask**
 - 📫 How to reach me **ale_jandro2306@hotmail.com**
