@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center"> A FullStack Developer 👨‍💻 </h3>
+<h3 align="center"> A Front-End Developer 👨‍💻 </h3>
 
 <h2>A little more about me... 💬 </h2>
 <h2>Computer Engineer <a href = "https://www.utpl.edu.ec" > Universidad Tecnica Particular de Loja </a></h2> 
